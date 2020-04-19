@@ -20,6 +20,7 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Apr 17 | [Wikipedia Contributions](https://en.wikipedia.org/wiki/Special:Contributions/Kylayujiri) | Wikipedia | I edited the article on the Van Reeth Glacier for grammar. |
-| Apr 17 | [Wikipedia Contributions](https://en.wikipedia.org/wiki/Special:Contributions/Kylayujiri) | Wikipedia | I edited the article on KTNF for grammar. |
-| Apr 17 | [Wikipedia Contributions](https://en.wikipedia.org/wiki/Special:Contributions/Kylayujiri) | Wikipedia | I edited the article on Lullabies for You for grammar. |
+| Apr 17 | [Wikipedia Contributions](https://en.wikipedia.org/wiki/Special:Contributions/Kylayujiri) | Wikipedia edit | I edited the article on the Van Reeth Glacier for grammar. |
+| Apr 17 | [Wikipedia Contributions](https://en.wikipedia.org/wiki/Special:Contributions/Kylayujiri) | Wikipedia edit | I edited the article on KTNF for grammar. |
+| Apr 17 | [Wikipedia Contributions](https://en.wikipedia.org/wiki/Special:Contributions/Kylayujiri) | Wikipedia edit | I edited the article on Lullabies for You for grammar. |
+| Apr 19 - ? (ongoing) | [Youtube Video](https://en.wikipedia.org/wiki/Special:Contributions/Kylayujiri), [Photo of YouTube Contributions](https://drive.google.com/file/d/1eKYdi_88gJ-8hOWmc-66mdJU4qsDwImO/view?usp=sharing) | freeCodeCamp YouTube video subtitles | I'm adding subtitles to their 3.5 hour-long video on learning JavaScript. |
