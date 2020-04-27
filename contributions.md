@@ -28,3 +28,4 @@ Replace the first row with your own contribution.
 | Apr 27 | [Wikipedia Edit](https://en.wikipedia.org/w/index.php?title=D._J._Potter&oldid=953539122) | Wikipedia edit | I edited a random article (D. J. Potter) for grammar. |
 | Apr 27 | [Wikipedia Edit](https://en.wikipedia.org/w/index.php?title=Lycopodiella_alopecuroides&oldid=953539762) | Wikipedia edit | I edited a random article (Lycopodiella alopecuroides) for grammar. |
 | Apr 27 | [Wikipedia Edit](https://en.wikipedia.org/w/index.php?title=Manhattan_Beach,_California&oldid=953543766) | Wikipedia edit | I edited the article on my hometown (Manhattan Beach, California) for grammar. |
+| Apr 27 | [Wikipedia Edit](https://en.wikipedia.org/w/index.php?title=Manhattan_Beach,_California&oldid=953545686#cite_note-12) | Wikipedia edit | I added a missing source on the article about my hometown (Manhattan Beach, California). |
